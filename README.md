@@ -18,5 +18,3 @@ eg: A[] = {3, 4, 5, 3, 7}; then it can be make visually aesthetical in 3 ways: r
 eg: B[] = {1, 2, 3, 4, 2, 5}; This pattern can never be forme visually aesthetical so, function should return -1.
 
 eg: c[] = {1, 3, 1, 2}; this pattern is already in visually aesthetically pleasant so it should return 0.
-
-I tried to solve it as shown in the next solution part. Can someone please suggest more better way to solve problem to reduce code complexity and faster working using java?

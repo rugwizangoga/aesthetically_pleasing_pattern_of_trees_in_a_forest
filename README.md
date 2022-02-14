@@ -1,11 +1,5 @@
 # aesthetically_pleasing_pattern_of_trees_in_a_forest
-There is a guy having his forest, where trees are planted in a rows format. Each row should contain a trees in visually aesthetically pleasant way. eg. as shown in above images:
-
-image1
-
-image2
-
-Above tree pattern can never be visually aesthetically pleasant: image3
+There is a guy having his forest, where trees are planted in a rows format. Each row should contain a trees in visually aesthetically pleasant way. 
 
 Here each column represents tree in row and it's height. No two trees besides each other should be of equal height to make the row visually aesthetically pleasant. the owner of farm wants all the trees to be visually Aesthetical. and for that he can cut at the most 1 tree in a row. find out the number of ways possible to cut one tree in a row to make the row of tree Aesthetical.
 
